@@ -1,0 +1,50 @@
+li {
+    display: inline;
+    background-color: rgb(165, 163, 163);
+    padding: 8px;
+    text-shadow: 2px;
+    font-size: larger;
+    position: sticky;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+}
+
+
+a:visited {
+    color: white;
+    border-radius: 25px;
+
+}
+
+
+a:hover {
+    background-color: rgba(128, 128, 128, 0.276);
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.active {
+    background-color: green;
+    color: white;
+    border-radius: 25px;
+}
+
+
+ul {
+    overflow: hidden;
+    background-color: rgb(165, 163, 163);
+    padding: 8px;
+    list-style-type: none;
+    border-radius: 25px;
+    
+}
+
+.navigation {
+    position: sticky;
+    top:0;
+}

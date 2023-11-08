@@ -1,0 +1,81 @@
+th {
+    color: green;
+    font-size: 25px;
+    float: right;
+    
+}
+
+.forms {
+    color: green;
+    font-size: 25px;
+    top: -50px;
+    
+}
+
+#section4 {
+    display: flex;
+    gap: 20px;
+}
+
+form {
+
+    border-left: 5px;
+    border-color: black;
+    padding: 10px;
+    left: 200px;
+}
+
+.vl {
+    border-left: 6px solid black;
+  height: 500px;
+  position: relative;
+  
+  margin-left: -3px;
+ 
+}
+
+.table2 {
+    left: 200px;
+}
+
+.title
+{
+    float: left;
+    color: black;
+    font-size: 40px;
+}
+
+.submit {
+    margin-top: 20px;
+    background-color: #04aa6d;
+    color: white;
+    font-size: large;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+    margin: auto;
+    cursor: pointer;
+    border: none;
+}
+
+#forms {
+    color: white;
+    background-color: #04aa6d;
+    padding: 10px;
+}
+
+.name,.email,.phone {
+    padding: 10px;
+    padding-right: 400px;
+    margin-bottom: 10px;
+}
+
+.section4 {
+    align-self: flex-end
+}
+
+.fa-brands {
+    padding-right: 5px;
+    float: right;
+}
